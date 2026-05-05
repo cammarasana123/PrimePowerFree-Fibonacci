@@ -22,4 +22,4 @@ This repository contains Lean 4 formalisations of Prime-Power-Free Fibonacci Seq
 * **lakefile.toml**: Package configuration and dependencies.
 
 ## Author
-- **Simone Cammarasana**
+- **Simone Cammarasana**, CNR-IMATI
