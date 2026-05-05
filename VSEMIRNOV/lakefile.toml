@@ -1,0 +1,14 @@
+name = "Vsemirnov"
+version = "0.1.0"
+defaultTargets = ["Vsemirnov"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+
+[[lean_lib]]
+name = "Vsemirnov"
+
+[[lean_exe]]
+name = "vsemirnov"
+root = "Main"
