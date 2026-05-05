@@ -12,7 +12,7 @@ This repository contains Lean 4 formalisations of Prime-Power-Free Fibonacci Seq
 
 1. **Download Mathlib Dependencies**: Run `lake exe cache get` in your terminal to fetch pre-compiled binaries.
 2. **Build the Project**: Run `lake build` to compile all files and verify the proofs via command line.
-3. **Interactive Mode (Recommended)**: Open the project root folder in **VS Code** and open any `.lean` file (e.g., `Nicol/ModularCertificate.lean`). The **Lean Infoview** will open on the right (or press `Ctrl+Shift+Enter`), allowing you to move your cursor through the tactics to see the live goal state.
+3. **Interactive Mode (Recommended)**: Open the project root folder in **VS Code** and open any `.lean` file (e.g., `Nicol/ModularCertificate.lean`).
 
 ## Directory Structure
 
