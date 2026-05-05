@@ -1,6 +1,6 @@
 # Lean 4 Formalisations for Prime-Power-Free Fibonacci Sequences
 
-This repository contains Lean 4 proofs and formalisations of Prime-Power-Free Fibonacci Sequences related to the works of **Nicol** and **Vsemirnov**.
+This repository contains Lean 4 formalisations of Prime-Power-Free Fibonacci Sequences related to the works of **Nicol** and **Vsemirnov**.
 
 ## Prerequisites
 
