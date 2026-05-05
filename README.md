@@ -16,8 +16,8 @@ This repository contains Lean 4 formalisations of Prime-Power-Free Fibonacci Seq
 
 ## Directory Structure
 
-* **Nicol/**: Proofs (Basic, Covering, ModularCertificate).
-* **Vsemirnov/**: Proofs (Basic, Covering, ModularCertificate).
+* **Nicol/**: Formalisations (Basic, Covering, ModularCertificate).
+* **Vsemirnov/**: Formalisations (Basic, Covering, ModularCertificate).
 * **Nicol.lean & Vsemirnov.lean**: Main files used to import the respective libraries.
 * **lakefile.toml**: Package configuration and dependencies.
 
